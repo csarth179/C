@@ -1,6 +1,5 @@
 //
 //  string_array.c
-//  String_Array
 //
 //  Created by Sarthak Chopra on 6/25/20.
 //  Copyright © 2020 Sarthak Chopra. All rights reserved.
@@ -9,7 +8,7 @@
 #include<stdio.h>
 #include<string.h>
 
-int factorial(int );
+int factorial(int);
  
 int main()
 {
